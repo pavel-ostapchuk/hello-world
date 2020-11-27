@@ -1,2 +1,6 @@
 # hello-world
-My first repository
+
+
+Hello Peeps!
+
+Here is my first repository! Hope  ur doint well over there! 
